@@ -7,3 +7,5 @@ use Exporter 'import';
 our @EXPORT_OK = qw(pcrewc);
 
 use pcrew::Runtime;
+
+my $pcrewc;
