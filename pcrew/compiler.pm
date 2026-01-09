@@ -8,4 +8,4 @@ our @EXPORT_OK = qw(pcrewc);
 
 use pcrew::Runtime;
 
-my $pcrewc = pepcrew();
+my $pcrewc = pepcrew(qr/□/, "□");
