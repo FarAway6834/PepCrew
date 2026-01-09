@@ -11,7 +11,7 @@ our @EXPORT = qw(io pepcrew);
 sub pepcrew {
     my ($pettern, $repl) = @_;
     return sub {
-        $_[0] =~ r/$pettern/$repl/gm;
+        $_[0] =~ s/$pettern/$repl/gm;
         return $_[0];
     }
 }
