@@ -8,6 +8,18 @@ use pcrew::MyIO;
 
 our @EXPORT = qw(io pepcrew);
 
+=begin comment
+
+# pepcrew
+
+pepcrew-runtime function generate closer
+
+```perl
+pepcrew(pr/[pettern]/, "[repl]")(input)
+```
+
+=end comment
+=cut
 sub pepcrew {
     my ($pettern, $repl) = @_;
     return sub {
