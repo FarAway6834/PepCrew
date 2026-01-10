@@ -12,7 +12,7 @@ Pcrew is not suggest to making non-formal culture such as coding convension
 
 you have right to make you'r own code as you prefer.
 
-there's no social convention on formal language.
+there's no social convension on formal language.
 
 be free coding. it's up to you.
 
@@ -22,4 +22,4 @@ be free coding. it's up to you.
 > by David Hillbert
 > 
 
-I hope you don't ROT IN "convention to" NUT
+I hope you don't be "by conform to convention, to rot in rut"
